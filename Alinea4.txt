@@ -1,0 +1,105 @@
+RIVALITEIT OM CHLOË
+-----
+‘Ἐγώ, παρθένε, μείζων εἰμὶ Δάφνιδος, κἀγὼ μὲν
+
+    Ἐγώ: ik (nom)
+    παρθένε: meisje (v ev voc)
+    μείζων + gen: mooier dan (comp. m ev nom)
+    εἰμὶ: ik ben (prs. 1 ev)
+    Δάφνιδος: Dafnis (gen)
+    κἀγὼ (και ἐγω): en ik
+
+" "Ik, meisje, ben mooier dan Dafnis, en ik ben [ellips]"
+-----
+βουκόλος, ὁ δ̓ αἰπόλος: τοσοῦτον κρείττων ὅσον
+
+    βουκόλος: koeherder (m ev nom)
+    ὁ: hij (m ev nom)
+    δ̓: en
+    αἰπόλος: geitenhoeder (m ev nom)
+    τοσοῦτον ... ὅσον: zoveel ... als
+    κρείττων + gen: beter dan (comp. m ev nom)
+
+"koeherder, en hij geitenhoeder: ik ben [ellips] zoveel beter dan hem [ellips] als"
+-----
+αἰγῶν βόες: καὶ λευκός εἰμι ὡς γάλα, καὶ πυρρὸς ὡς θέρος
+
+    αἰγῶν: geiten (m mv gen)
+    βόες: koeien (m mv nom)
+    καὶ: en
+    λευκός: wit (m ev nom)
+    εἰμι: ik ben (prs. 1 ev)
+    ὡς: als
+    γάλα: melk (o ev acc)
+    καὶ: en
+    πυρρὸς: rossig (m ev nom)
+    θέρος: graan (o ev acc)
+
+"koeien beter zijn dan [ellips] geiten: en ik ben wit als melk, en rossig als graan"
+-----
+μέλλον ἀμᾶσθαι, καὶ ἔθρεψε μήτηρ, οὐ θηρίον. Οὗτος
+
+    μέλλον: dat op het punt staat (prs. ptc. act. o ev acc)
+    ἀμᾶσθαι: gemaaid te worden (prs. med. inf.)
+    καὶ: en
+    ἔθρεψε: zij voedde mij op (aor. act. 3 ev)
+    μήτηρ: een moeder (v ev nom)
+    οὐ: niet
+    θηρίον: een wild dier (o ev nom)
+    Οὗτος: hij (m ev nom)
+
+"dat op het punt staat gemaaid te worden, en een moeder voedde mij op, niet een wild dier. En [δέ, volgende regel] hij"
+-----
+δέ ἐστι μικρὸς καὶ ἀγένειος ὡς γυνή, καὶ μέλας ὡς λύκος:
+
+    δέ: en
+    ἐστι: hij is (prs. 3 ev)
+    μικρὸς: klein (m ev nom)
+    καὶ: en
+    ἀγένειος: zonder baard (m ev nom)
+    ὡς: als
+    γυνή: een vrouw (v ev nom)
+    καὶ: en
+    μέλας: donker (m ev nom)
+    λύκος: een wolf (m ev nom)
+
+"is klein, en zonder baard als een vrouw, en donker als een wolf: "
+-----
+νέμει δὲ τράγους, ὀδωδὼς ἀπ̓ αὐτῶν δεινόν, καὶ ἔστι
+
+    νέμει: hij hoedt (prs. act. 3 ev)
+    δὲ: en
+    τράγους: bokken (m ev acc)
+    ὀδωδὼς ἀπ̓ + gen: stinkend naar
+    αὐτῶν: hen (m mv gen)
+    δεινόν: vreselijk
+    καὶ: en
+    ἔστι: hij is (prs. 3 ev)
+
+"en hij hoedt bokken, vreselijk stinkend naar hen, en hij is"
+-----
+πένης ὡς μηδὲ κύνα τρέφειν. Εἰ δ̓, ὡς λέγουσι, καὶ αἲξ
+
+    πένης: arm (m ev nom)
+    ὡς ... τρέφειν: zodat hij kan houden
+    μηδὲ: zelfs geen
+    κύνα: honden (mv acc)
+    Εἰ: als
+    δ̓: en
+    ὡς: zoals
+    λέγουσι: ze zeggen (prs. act. 3 mv)
+    καὶ: ook
+    αἲξ: een geit (v ev nom)
+
+"arm, zodat hij zelfs geen honden kan houden. En als, zoals ze zeggen, ook een geit"
+-----
+αὐτῷ γάλα δέδωκεν, οὐδὲν ἐρίφου διαφέρει.’
+
+    αὐτῷ: aan hem (m ev dat)
+    γάλα: melk (o ev acc)
+    δέδωκεν: zij heeft gegeven (perf. act. 3 ev)
+    οὐδὲν: niets
+    ἐρίφου: van een bokje (m ev gen)
+    διαφέρει: hij verschilt (prs. act. 3 ev)
+
+"melk aan hem heeft gegeven, verschilt hij niets van een bokje." "

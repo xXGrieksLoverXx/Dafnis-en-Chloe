@@ -1,0 +1,157 @@
+Ταῦτα καὶ τοιαῦτα ὁ Δόρκων καὶ μετὰ ταῦτα ὁ Δάφνις
+
+    Ταῦτα: dat (o ev acc) ?
+    καὶ: en
+    τοιαῦτα: dergelijk (o ev acc)
+    ὁ Δόρκων: Dorkon (m ev nom)
+    καὶ: en
+    μετὰ: daarna
+    ὁ Δάφνις: Dafnis (m ev nom)
+
+"En Dorkon zei [ellips] dat en dergelijk en daarna zei [ellips] Dafnis dat"
+-----
+‘Ἐμὲ αἲξ ἀνέθρεψεν ὥσπερ τὸν Δία: νέμω δὲ τράγους τῶν
+
+    ‘Ἐμὲ: mij (acc)
+    αἲξ: een geit (v ev nom)
+    ἀνέθρεψεν: zij voedde op (aor. act. 3 ev)
+    ὥσπερ: zoals
+    τὸν Δία: Zeus (acc)
+    νέμω: ik hoed (prs. act. 1 ev)
+    δὲ: en
+    τράγους: bokken (m mv acc)
+
+"Een geit voedde mij op zoals (een geit) Zeus (opvoedde): en ik hoed bokken"
+-----
+τούτου βοῶν μείζονας: ὄζω δὲ οὐδὲν ἀπ̓ αὐτῶν, ὅτι μηδὲ
+
+    τούτου: van hem (m ev gen)
+    τῶν βοῶν: de koeien (m mv gen)
+    μείζονας + gen: groter dan
+    ὄζω ἀπ̓ + gen: ik stink naar (prs. act. 1 ev)
+    δὲ: en
+    οὐδὲν: niets
+    αὐτῶν: hen (m mv gen)
+    ὅτι μηδὲ: net zo min als
+
+"groter dan de koeien van hem: en ik stink niets naar hen, net zo min als"
+-----
+ὁ Πάν, καίτοιγε ὢν τὸ πλέον τράγος. Ἀρκεῖ δέ μοι τυρὸς
+
+    ὁ Πάν: Pan (m ev nom)
+    καίτοιγε: hoewel
+    ὢν: terwijl hij is (prs. ptc. act. m ev nom)
+    τὸ πλέον: voor meer dan de helft
+    τράγος: bok (m ev nom)
+    Ἀρκεῖ: het is genoeg (prs. act. 3 ev)
+    δέ: en
+    μοι: voor mij (dat)
+    τυρὸς: kaas (m ev nom)
+
+"Pan, hoewel hij voor meer dan de helft bok is. Kaas"
+-----
+καὶ ἄρτος ὀβελίας καὶ οἶνος λευκός, ὅσα ἀγροίκων
+
+    καὶ: en
+    ἄρτος ὀβελίας: brood aan het spit gebakken (m ev nom)
+    καὶ: en
+    οἶνος: wijn (m ev nom)
+    λευκός: heldere (m ev nom)
+    ὅσα: wat ... zijn
+    ἀγροίκων: van landmannen (m mv gen)
+
+"en brood aan het spit gebakken en heldere wijn zijn mij genoeg [Ἀρκεῖ en μοι, vorige regel], wat van van rijke [πλουσίων, volgende regel] landmannen"
+-----
+πλουσίων κτήματα. Ἀγένειός εἰμι, καὶ γὰρ ὁ Διόνυσος:
+
+    πλουσίων: rijke (m mv gen)
+    κτήματα: bezittingen (o mv nom)
+    Ἀγένειός: zonder baard (m ev nom)
+    εἰμι: ik ben (prs. 1 ev)
+    καὶ γὰρ: maar ... ook
+    ὁ Διόνυσος: Dionysos (m ev nom)
+
+"bezittingen zijn. Ik ben zonder baard, maar Dionysos ook: "
+-----
+μέλας, καὶ γὰρ ὁ ὑάκινθος: ἀλλὰ κρείττων καὶ ὁ Διόνυσος
+
+    μέλας: donker (m ev nom)
+    καὶ γὰρ: maar ... ook
+    ὁ ὑάκινθος: de hyacint (m ev nom)
+    ἀλλὰ: maar
+    κρείττων + gen: beter dan (comp. m ev nom)
+    καὶ: ook
+    ὁ Διόνυσος: Dionysos (m ev nom)
+
+"ik ben [ellips] donker, maar de hyacint ook: maar Dionysos is [ellips] ook beter dan"
+-----
+Σατύρων καὶ ὁ ὑάκινθος κρίνων. Οὗτος δὲ καὶ πυρρὸς
+
+    Σατύρων: satyrs (m mv gen)
+    καὶ: en
+    ὁ ὑάκινθος: de hyacint (m ev nom)
+    κρίνων: lelies (o mv gen)
+    Οὗτος: hij (m ev nom)
+    δὲ: en
+    καὶ ... καὶ ... καὶ: zowel ... als ... als ook
+    πυρρὸς: rossig (m ev nom)
+
+"satyrs en de hyacint is beter dan [ellips] lelies. En hij is zowel rossig"
+-----
+ὡς ἀλώπηξ καὶ προγένειος ὡς τράγος καὶ λευκὸς ὡς ἐξ
+
+    ὡς: zoals
+    ἀλώπηξ: een vos (v ev nom)
+    προγένειος: harig (m ev nom)
+    τράγος: een bok (m ev nom)
+    λευκὸς: wit (m ev nom)
+    ἐξ: uit
+
+"zoals een vos, als harig zoals een bok, als ook wit zoals een vrouw [γυνή, volgende zin] uit"
+-----
+ἄστεος γυνή: κἂν δέῃ σε φιλεῖν, ἐμοῦ μὲν φιλήσεις
+
+    ἄστεος: een stad (o ev gen)
+    γυνή: een vrouw (v ev nom)
+    κἂν (και εἰ ἀν): en als
+    δέῃ: het nodig zal zijn (prs. con. act. 3 ev) [coniunctivus met ἀν geeft waarschijnlijkheid aan]
+    σε: jij (acc)
+    φιλεῖν: kussen (prs. act. inf.)
+    ἐμοῦ: van mij
+    μὲν ... δὲ: weliswaar ... maar
+    φιλήσεις: jij zal kussen (fut. act. 3 ev)
+
+"een stad: en als het nodig zal zijn dat jij kust [AcI], zal jij van mij weliswaar"
+-----
+τὸ στόμα, τούτου δὲ τὰς ἐπὶ τοῦ γενείου τρίχας. Μέμνησο
+
+    τὸ στόμα: de mond (o ev acc)
+    τούτου: van hem (m ev gen)
+    δὲ: maar
+    ἐπὶ + gen: op
+    τοῦ γενείου: zijn kin (o ev gen)
+    τὰς τρίχας: de haren (v mv acc)
+    Μέμνησο: herinner je (perf. act. imp. 2 ev)
+
+"de mond, maar van hem de haren op zijn kin. En [δέ, volgende regel] herinner je, "
+-----
+δέ, ὦ παρθένε, ὅτι καὶ σὲ ποίμνιον ἔθρεψεν, ἀλλὰ καὶ
+
+    δέ: en
+    παρθένε: meisje (v ev voc)
+    ὅτι: dat
+    καὶ: ook
+    σὲ: jou (acc)
+    ποίμνιον: een schaap (o ev nom)
+    ἔθρεψεν: het bracht groot (aor. act. 3 ev)
+    ἀλλὰ: maar
+    καὶ ὣς: toch
+
+"meisje, dat ook een schaap jou grootbracht, maar toch"
+-----
+ὣς εἶ καλή.’
+
+    εἶ: jij bent (prs. 2 ev)
+    καλή: mooi (v ev nom)
+
+"ben jij mooi." "

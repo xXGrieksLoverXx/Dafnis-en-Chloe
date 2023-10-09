@@ -1,0 +1,239 @@
+LIEFDESVERDRIET
+-----
+᾽Επηλθον ποτε αὐτῃ και τοιοιδε λογοι μονῃ γενομενῃ
+
+    ᾽Επηλθον + dat: Ze kwamen op bij ()
+    ποτε: toen
+    αὐτῃ: haar
+    και: en
+    τοιοιδε: dergelijke (m mv nom)
+    λογοι: woorden (m mv nom)
+    μονῃ: alleen (v ev dat)
+    γενομενῃ: toen ze was (aor. ptc. med. v ev dat)
+
+"En dergelijke woorden kwamen op bij haar terwijl zij alleen was: "
+-----
+‘Νῦν ἐγὼ νοσῶ μέν, τί δὲ ἡ νόσος ἀγνοῶ: ἀλγῶ, καὶ
+
+    ‘Νῦν: nu
+    ἐγὼ: ik
+    νοσῶ: ik ben ziek (prs. act. 1 ev)
+    τί: wat (o ev acc)
+    δὲ: maar
+    ἡ νόσος: de ziekte (v ev nom)
+    ἀγνοῶ: ik weet niet (prs. act. 1 ev)
+    ἀλγῶ: ik heb pijn (prs. act 1 ev)
+    καὶ: en
+
+" "Nu ben ik ziek, maar ik weet niet wat de ziekte is [ellips]: ik heb pijn, en"
+-----
+ἕλκος οὐκ ἔστι μοι: λυποῦμαι, καὶ οὐδὲν τῶν προβάτων
+
+    ἕλκος: wond (o ev nom)
+    οὐκ: niet/geen
+    ἔστι: is (prs. 3 ev)
+    μοι: aan mij (dat)
+    λυποῦμαι: ik heb verdriet (prs. med. 1 ev)
+    καὶ: en
+    οὐδὲν: geen
+    τῶν προβάτων: van de schapen (o mv gen)
+
+"ik heb geen wond (geen wond is aan mij): ik heb verdriet, en geen van de schapen"
+-----
+ἀπόλωλέ μοι: κάομαι, καὶ ἐν σκιᾷ τοσαύτῃ κάθημαι.
+
+    ἀπόλωλέ: is verloren gegaan (perf. act. 3 ev)
+    μοι: aan mij (dat)
+    κάομαι: ik verbrand (prs. act 1 ev)
+    καὶ: en
+    ἐν + dat: in
+    σκιᾷ: schaduw (v ev dat)
+    τοσαύτῃ: zo'n (v ev dat)
+    κάθημαι: ik zit (prs. act. 1 ev)
+
+"is mij verloren gegaan: ik verbrand, en ik zit in zo'n schaduw."
+-----
+Πόσοι βάτοι με ἤμυξαν, καὶ οὐκ ἔκλαυσα: πόσαι μέλιτται
+
+    Πόσοι: hoeveel (m mv nom)
+    βάτοι: doornen (m mv nom)
+    με: mij (acc)
+    ἤμυξαν: hebben mij verwond (aor. act. 3 mv)
+    καὶ: en
+    οὐκ: niet
+    ἔκλαυσα: ik huilde (aor. act. 1 ev)
+    πόσαι: hoeveel (v mv nom)
+    μέλιτται: bijen (v mv nom)
+
+"hoeveel doornen hebben mij verwond, en ik huilde niet: hoeveel bijen"
+-----
+κέντρον ἐνῆκαν, ἀλλὰ ἔφαγον: τουτὶ δὲ τὸ νύττον μου τὴν
+
+    κέντρον ἐνῆκαν: hebben mij gestoken
+    ἀλλὰ: maar
+    ἔφαγον: ik at (aor. act. 1 ev)
+    τουτὶ: hier
+    δὲ: en
+    τὸ νύττον: de wond (o ev nom)
+    μου: mijn (gen)
+
+"hebben mij gestoken, maar ik at: en de wond hier was"
+-----
+καρδίαν πάντων ἐκείνων πικρότερον. Καλὸς ὁ Δάφνις, καὶ
+
+    τὴν καρδίαν: wat betreft mijn hart (v ev acc)
+    πάντων: alle (o mv gen)
+    ἐκείνων: anderen (o ev gen)
+    πικρότερον + gen: pijnlijker dan (comp. o ev nom)
+    Καλὸς: mooi (m ev nom)
+    ὁ Δάφνις: Dafnis (nom)
+    καὶ ... γὰρ: maar ... ook
+
+"wat betreft mijn hart pijnlijker dan alle anderen. Dafnis is [ellips] mooi, maar"
+-----
+γὰρ τὰ ἄνθη: καλὸν ἡ σύριγξ αὐτοῦ φθέγγεται, καὶ γὰρ
+
+    τὰ ἄνθη: de bloemen (v mv nom)
+    καλὸν: mooi (m ev acc)
+    ἡ σύριγξ: de herdersfluit (v ev nom)
+    αὐτοῦ: zijn (m ev gen)
+    φθέγγεται: klinkt (prs. med. 3 ev)
+
+"de bloemen ook: zijn herdersfluit klinkt mooi, maar"
+-----
+αἱ ἀηδόνες. Ἀλλ̓ ἐκείνων οὐδείς μοι λόγος. Εἴθε αὐτοῦ
+
+    αἱ ἀηδόνες: de nachtegalen (v mv nom)
+    Ἀλλ̓: maar
+    ἐκείνων: die (m mv gen)
+    οὐδείς μοι λόγος + gen: ik heb geen interesse in
+    Εἴθε: [onvervulbare wens]
+    αὐτοῦ: zijn (m ev gen)
+
+"de nachtegalen ook. Maar in die heb ik geen interesse."
+-----
+σύριγξ ἐγενόμην, ἵν̓ ἐμπνέῃ μοι: εἴθε αἴξ, ἵν̓ ὑπ̓ ἐκείνου
+
+    σύριγξ: herdersfluit (m ev nom)
+    ἐγενόμην: ik was (aor. med. 3 ev)
+    ἵν̓: opdat
+    ἐμπνέῃ: hij blies op (prs. con. act. 3 ev)
+    μοι: mij (dat)
+    εἴθε: [onvervulbare wens]
+    αἴξ: een geit (v ev nom)
+    ἵν̓: opdat
+    ὑπ̓ + gen: door
+    ἐκείνου: hem (m ev gen)
+
+"Was ik maar zijn [αὐτοῦ, vorige regel] herdersfluit, opdat hij op mij blies: was ik maar een geit, opdat ik door hem"
+-----
+νέμωμαι. Ὦ πονηρὸν ὕδωρ, μόνον Δάφνιν καλὸν
+
+    νέμωμαι: ik werd gehoed (prs. con. pass. 1 ev)
+    Ὦ: O
+    πονηρὸν: nutteloos (o ev nom)
+    ὕδωρ: water (o ev nom)
+    μόνον: alleen (m ev acc)
+    Δάφνιν: Dafnis (acc)
+    καλὸν: mooi (m ev acc)
+
+"werd gehoed. O nutteloos water, alleen Dafnis maakte jij [ἐποίησας, volgende regel] mooi, "
+-----
+ἐποίησας, ἐγὼ δὲ μάτην ἀπελουσάμην. Οἴχομαι, Νύμφαι
+
+    ἐποίησας: jij maakte (aor. act. 2 ev)
+    ἐγὼ: ik
+    δὲ: en
+    μάτην: tevergeefs
+    ἀπελουσάμην: ik waste me schoon (aor. med. 1 ev)
+    Οἴχομαι: het is afgelopen met mij
+    Νύμφαι: Nimfen (v mv nom)
+
+"en ik waste me tevergeefs schoon. Het is afgelopen met mij, dierbare [φίλαι, volgende regel] Nimfen: "
+-----
+φίλαι: οὐδὲ ὑμεῖς σώζετε τὴν παρθένον τὴν ἐν ὑμῖν
+
+    φίλαι: dierbare (v mv nom)
+    οὐδὲ: ook niet
+    ὑμεῖς: jullie (nom)
+    σώζετε: jullie redden (prs. act. 2 mv)
+    τὴν παρθένον: het meisje (v ev acc)
+    τὴν: ?
+    ἐν + dat: bij
+    ὑμῖν: jullie (dat)
+
+"ook jullie redden het meisje niet, bij jullie"
+-----
+τραφεῖσαν. Τίς ὑμᾶς στεφανώσει μετ̓ ἐμέ; τίς τοὺς
+
+    τραφεῖσαν: opgevoed (prs. ptc. pass. v ev acc)
+    Τίς: wie (v ev nom)
+    ὑμᾶς: jullie (acc)
+    στεφανώσει: zal bekransen (fut. act. 3 ev)
+    μετ̓ + acc: na
+    ἐμέ: mij (acc)
+    τίς: wie (v ev nom)
+
+"opgevoed. Wie zal na mij jullie omkransen? Wie"
+-----
+ἀθλίους ἄρνας ἀναθρέψει; τίς τὴν λάλον ἀκρίδα
+
+    ἀθλίους: ongelukkige (m mv acc)
+    τοὺς ἄρνας: de lammetjes (m mv acc)
+    ἀναθρέψει: zal grootbrengen (fut. act. 3 ev)
+    τίς: wie (v ev nom)
+    τὴν ἀκρίδα: de sprinkhaan (v ev acc)
+    λάλον: babblende (v ev acc)
+
+"zal de ongelukkige lammetjes grootbrengen? Wie zal de babblende sprinkhaan"
+-----
+θεραπεύσει, ἣν πολλὰ καμοῦσα ἐθήρασα, ἵνα με
+
+    θεραπεύσει: zal verzorgen (fut. act. 3 ev)
+    ἣν: die (v ev acc)
+    πολλὰ καμοῦσα: met veel moeite
+    ἐθήρασα: gevangen (aor. ptc. act. v ev nom)
+    ἵνα: opdat
+    με: me (acc)
+
+"verzorgen die ik met veel moeite heb gevangen, opdat"
+-----
+κατακοιμίζῃ φθεγγομένη πρὸ τοῦ ἄντρου; νῦν
+
+    κατακοιμίζῃ: zij zou in slaap sussen (prs. opt. act. 3 ev)
+    φθεγγομένη: omdat ze geluid maakt (prs. ptc. med. v ev nom)
+    πρὸ + gen: voor
+    τοῦ ἄντρου: de grot (v ev gen)
+    νῦν: nu
+
+"zij me [με, vorige regel] voor de grot in slaap zou sussen omdat ze geluid maakt? En [δὲ, volgende regel] nu"
+-----
+δὲ ἐγὼ μὲν ἀγρυπνῶ διὰ Δάφνιν, ἡ δὲ μάτην λαλεῖ.’
+
+    δὲ: en
+    ἐγὼ: ik
+    ἀγρυπνῶ: ik kan niet slapen (prs. act. 1 ev)
+    διὰ + acc: door
+    Δάφνιν: Dafnis (acc)
+    ἡ: zij (v ev nom) [de sprinkhaan]
+    δὲ: en
+    μάτην: zonder resultaat
+    λαλεῖ: zij babbelt (prs. act. 3 ev)
+
+"kan ik niet slapen door Dafnis, en zij babbelt zonder resultaat." "
+-----
+Τοιαῦτα ἔπασχε, τοιαῦτα ἔλεγεν, ἐπιζητοῦσα τὸ
+
+    Τοιαῦτα: zulke dingen (o mv acc)
+    ἔπασχε: ze ervaarde (impf. act. 3 ev)
+    ἔλεγεν: ze zei (impf. act. 3 ev)
+    ἐπιζητοῦσα: terwijl ze zocht naar (prs. ptc. act. v ev nom)
+
+"Zulke dingen ervaarde ze, zulke dingen zei ze, terwijl ze zocht naar"
+-----
+ἔρωτος ὄνομα.
+
+    ἔρωτος: van liefde (m ev gen)
+    τὸ ὄνομα: de naam (o ev acc)
+
+"de naam van de liefde."

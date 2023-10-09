@@ -1,0 +1,146 @@
+CHLOË WORDT VERLIEFD
+-----
+Και ἐλθων ἁμα τῃ Χλοῃ προς το νυμφαιον τῃ μεν ἐδωκε
+
+    Και: En
+    ἐλθων: nadat hij was gegaan (aor. act ptc. m ev nom)
+    ἁμα + dat: samen met
+    τῃ Χλοῃ: Chloë (v ev dat)
+    προς + acc: naar
+    το νυμφαιον: de grot van de Nimfen (o ev acc)
+    τῃ (αὐτῃ): haar (v ev dat)
+    μεν: [Hoeft niet vertaald, μεν ... δε kan je vertalen als weliswaar ... maar]
+    ἐδωκε + dat: hij gaf aan (aor. act. 3 ev)
+
+"En nadat hij samen met Chloë naar de grot van de Nimfen was gegaan, gaf hij aan haar"
+-----
+και τον χιτωνισκον και την πηραν φυλαττειν, αὐτος δε τῃ
+
+    και: ook
+    τον χιτωνισκον: zijn hemd (m ev acc)
+    και: en
+    την πηραν: zijn herderstas (v ev acc)
+    φυλαττειν: om te bewaken (inf. prs.)
+    αὐτος: zelf
+    δε: en
+    τῃ: [Bij πηγῃ]
+
+"ook zijn hemd en zijn herderstas om te bewaken, en zelf"
+-----
+πηγῃ παραστας την τε κομην και το σωμα παν ἀπελουετο.
+
+    πηγῃ: de bron
+    παραστας: nadat hij ging staan (aor. ptc. m ev nom)
+    την τε κομην: en zijn haren (v ev acc)
+    και το σωμα: en zijn lichaam (o ev acc)
+    παν: heel (o ev acc)
+    ἀπελουετο: hij waste zichzelf schoon (impf. med. 3 ev)
+
+"waste hij, nadat hij bij de bron ging staan, en zijn haren, en zijn hele lichaam schoon."
+-----
+᾽Ην δε ἡ μεν κομη μελαινα και πολλη, το δε σωμα
+
+    ᾽Ην: was (impf. 3 ev)
+    ἡ κομη: zijn haar (v ev nom)
+    μελαινα: donker (v ev nom)
+    πολλη: veel (v ev nom)
+    το σωμα: zijn lichaam (o ev nom)
+
+"En zijn haar was donker en veel, en zijn lichaam (was)"
+-----
+ἐπικαυτον ἡλιῳ• εἰκασεν ἀν τις αὐτο χρῳζεσθαι τῃ σκιαι
+
+    ἐπικαυτον: gebruind (o ev nom)
+    ἡλιῳ: door de zon (m ev dat)
+    εἰκασεν ἀν τις: men had kunnen denken dat
+    αὐτο: het (o ev acc)
+    χρῳζεσθαι: geverfd was (inf. med.)
+    τῃ σκιᾳ: door de schaduw (v ev dat)
+
+"gebruind door de zon: men had kunnen denken dat het geverfd was door de schaduw"
+-----
+της κομης. ᾽Εδοκει δε τῃ Χλοῃ θεομενῃ καλος ὁ Δαφνις,
+
+    της κομης: van zijn haar (v ev gen)
+    ᾽Εδοκει: scheen (impf. act. 3 ev)
+    τῃ Χλοῃ: Chloë (v ev dat)
+    θεομενῃ: terwijl zij bewonderde (prs. med. ptc. v ev dat)
+    καλος: mooi (m ev nom)
+    ὁ Δαφνις: Dafnis (m ev nom)
+
+"van zijn haar. En Dafnis scheen de bewonderende Chloë mooi te zijn,"
+-----
+και ὁτι τοτε πρωτον αὐτῃ καλος ἐδοκει, το λουτρον
+
+    ὁτι: omdat
+    τοτε: toen
+    πρωτον: voor het eerst
+    αὐτῃ: voor haar (v ev dat)
+    καλος: mooi (m ev nom)
+    ἐδοκει: hij scheen (impf. act. 3 ev)
+    το λουτρον: het bad (o ev acc) [Volgende zin]
+
+"en omdat hij toen aan haar voor het eerst mooi scheen,"
+-----
+ἐνομιζε του καλλους αἰτιον. Τα νωτα δε ἀπολουουσης ἡ
+
+    ἐνομιζε +acc +acc: zij beschouwde ... als ... (impf. act. 3 ev)
+    του καλλους: van zijn schoonheid (o ev gen)
+    αἰτιον: de oorzaak (m ev acc)
+    Τα νωτα: zijn rug (o mv acc)
+    ἀπολουουσης: terwijl zij schoonmaakte (prs. ptc. act. v ev gen) [Gen.Abs.]
+    ἡ: [Bij σαρξ]
+
+"beschouwde zij het bad als oorzaak van zijn schoonheid. En terwijl zij zijn rug schoonmaakte"
+-----
+σαρξ ὑπεπιπτε μαλθακη, ὡστε λαθουσα εἁυτης ἡψατο
+
+    σαρξ: zijn vlees (v ev nom)
+    ὑπεπιπτε μαλθακη: voelde zacht aan
+    ὡστε: zodoende
+    λαθουσα: stiekem
+    εἁυτης: zichzelf (v ev gen)
+    ἡψατο: zij raakte aan (sigm.aor. med. 3 ev)
+
+"voelde zijn vlees zacht aan, zodoende raakte zij zichzelf stiekem vaak [πολλακις] aan,"
+-----
+πολλακις, εἰ τρυφερωτερα εἰη πειρωμενη. Και τοτε μεν
+
+    πολλακις: vaak
+    εἰ: om te zien of
+    τρυφερωτερα: zachter (comp. v ev nom)
+    εἰη: het was (opt. act. 3 ev) [Optativus in bijzin, normaal vertalen]
+    πειρωμενη: terwijl zij probeerde (part. med. v ev nom)
+    τοτε: toen
+
+"terwijl ze probeerde, of het zachter was. En toen"
+-----
+- ἐπι δυσμαις γαρ ἠν ὁ ἡλιος - ἀπηλασαν τας ἀγελας
+
+    ἐπι δυσμαις: in het westen
+    γαρ: want
+    ἠν: was (impf. 3 ev)
+    ὁ ἡλιος: de zon (m ev nom)
+    ἀπηλασαν: zij leidden weg (sigm.aor. act. 3 ev)
+    τας ἀγελας: de kuddes (v ev acc)
+
+"- want de zon was in het westen - leidden zij de kuddes weg"
+-----
+οἰκαδε, και ἐπεπονθει Χλοη περιττον οὐδεν, ὁτι μη
+
+    οἰκαδε: naar huis
+    ἐπεπονθει: zij ervaarde (plusq.perf. act. 3 ev)
+    Χλοη: Chloë (nom)
+    περιττον οὐδεν, ὁτι μη: verder niets bijzonders, behalve dat
+
+"naar huis, en Chloë ervaarde verder niets bijzonders, behalve dat"
+-----
+Δαφνιν ἐπιθυμει λουομενον ἰδεσθαι παλιν.
+
+    Δαφνιν: Dafnis (acc)
+    ἐπιθυμει: zij verlangde
+    λουομενον: gewassen worden (part. act. m ev acc) [AcP]
+    ἰδεσθαι: te zien
+    παλιν: weer
+
+"zij verlangde Dafnis opnieuw gewassen te zien worden."

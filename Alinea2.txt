@@ -1,0 +1,119 @@
+Ἔπεισε δὲ αὐτὸν καὶ λούσασθαι πάλιν καὶ λουόμενον
+
+    Ἔπεισε: zij haalde over (aor. act. 3 ev)
+    δὲ: en
+    αὐτὸν: hem (m ev acc)
+    καὶ: ook
+    λούσασθαι: zich wassen (aor. med. inf.)
+    πάλιν: weer
+    καὶ: en
+    λουόμενον: terwijl hij zich waste (prs. ptc. med. m ev acc)
+
+"En zij haalde hem ook over zichzelf weer te wassen, en terwijl hij zich waste"
+-----
+εἶδε καὶ ἰδοῦσα ἥψατο καὶ ἀπῆλθε πάλιν ἐπαινέσασα, καὶ
+
+    εἶδε: zij keek (aor. act. 3 ev)
+    καὶ: en
+    ἰδοῦσα (van ὁραω): nadat zij keek (aor. ptc. act. v ev nom)
+    ἥψατο: zij raakte aan (aor. med. 3 ev)
+    ἀπῆλθε: zij ging weg (aor. act. 3 ev)
+    πάλιν: weer
+    ἐπαινέσασα: nadat zij complimenten had gegeven (aor. ptc. act. v ev nom)
+
+"keek zij, en nadat zij keek raakte ze (hem) aan en nadat zij (hem) complimenten had gegeven ging zij weer weg, en"
+-----
+ὁ ἔπαινος ἦν ἔρωτος ἀρχή. Ὅ τι μὲν οὖν ἔπασχεν οὐκ ᾔδει
+
+    ὁ ἔπαινος: het compliment
+    ἦν: was (impf. 3 ev)
+    ἔρωτος: van liefde (m ev gen)
+    ἀρχή: het begin (v ev nom)
+    Ὅ τι: wat (o ev acc)
+    οὖν: dus
+    ἔπασχεν: zij ervaarde (impf. act. 3 ev)
+    οὐκ: niet
+    ᾔδει: zij wist (impf. 3 ev)
+
+"en het compliment was het begin van liefde. Ze wist dus niet wat zij ervaarde,"
+-----
+νέα κόρη καὶ ἐν ἀγροικίᾳ τεθραμμένη καὶ οὐδὲ ἄλλου
+
+    νέα: jong (v ev nom)
+    κόρη: meisje (v ev nom)
+    καὶ: en
+    ἐν + dat: op
+    ἀγροικίᾳ: het platteland (v ev dat)
+    τεθραμμένη: opgegroeid (ptc. pf. pass. v ev nom)
+    καὶ: en
+    οὐδὲ: niet
+    ἄλλου: een ander (m ev gen)
+
+"als jong meisje, en op het platteland opgegroeid, omdat zij [ἀκούσασα, volgende regel] niet een ander"
+-----
+λέγοντος ἀκούσασα τὸ τοῦ ἔρωτος ὄνομα: ἄση δὲ αὐτῆς
+
+    λέγοντος:: praten over (prs. ptc. m ev gen)
+    ἀκούσασα + gen + ptc: omdat zij ... had horen ...
+    τὸ ὄνομα: de naam (o ev acc)
+    τοῦ ἔρωτος: van de liefde (m ev gen)
+    ἄση: neerslachtigheid (v ev nom)
+    δὲ: en
+    αὐτῆς: haar (v ev gen)
+
+"had horen praten over de naam van de liefde: en neerslachtigheid had [εἶχε, volgende regel] haar"
+-----
+εἶχε τὴν ψυχήν, καὶ τῶν ὀφθαλμῶν οὐκ ἐκράτει καὶ πολλὰ
+
+    εἶχε: het had (impf. act. 3 ev)
+    τὴν ψυχήν: geest (v ev acc)
+    καὶ: en
+    τῶν ὀφθαλμῶν: haar ogen (m mv gen)
+    οὐκ: niet/geen
+    ἐκράτει: ze had macht over (impf. act. 3 ev)
+    καὶ: en
+    πολλὰ: vaak
+
+"geest, en ze had geen macht over haar ogen, en vaak"
+-----
+ἐλάλει Δάφνιν: τροφῆς ἠμέλει, νύκτωρ ἠγρύπνει, τῆς
+
+    ἐλάλει: ze zei (impf. act. 3 ev)
+    Δάφνιν: Dafnis
+    τροφῆς: voedsel (v ev gen)
+    ἠμέλει (van ἀμελεω): ze verwaarloosde (impf. act. 3 ev)
+    νύκτωρ: 's nachts
+    ἠγρύπνει: ze lag wakker (impf. act. 3 ev)
+
+"zei ze Dafnis: ze verwaarloosde haar voedsel, 's nachts lag ze wakker,"
+-----
+ἀγέλης κατεφρόνει: νῦν ἐγέλα, νῦν ἔκλαεν: εἶτα ἐκάθευδεν,
+
+    τῆς ἀγέλης: de kudde (v ev gen)
+    κατεφρόνει + gen: ze had geen aandacht voor (impf. act. 3 ev)
+    νῦν: dan
+    ἐγέλα: ze lachte (impf. act. 3 ev)
+    νῦν: dan
+    ἔκλαεν: ze huilde (impf. act. 3 ev)
+    εἶτα: daarna
+    ἐκάθευδεν: ze rustte (impf. act. 3 ev)
+
+"ze had geen aandacht voor de kudde, dan lachte ze, dan huilde ze, daarna rustte ze,"
+-----
+εἶτα ἀνεπήδα: ὠχρία τὸ πρόσωπον, ἐρυθήματι αὖθις
+
+    εἶτα: daarna
+    ἀνεπήδα: ze sprong op (impf. act. 3 ev)
+    ὠχρία: ze werd bleek (impf. act. 3 ev)
+    τὸ πρόσωπον: haar gezicht (o ev acc)
+    ἐρυθήματι: met roodheid (o ev dat)
+    αὖθις: weer
+
+"daarna sprong ze op: ze werd bleek wat betreft haar gezicht, weer bloosde ze [ἐφλέγετο, volgende regel] met roodheid."
+-----
+ἐφλέγετο. Οὐδὲ βοὸς οἴστρῳ πληγείσης τοιαῦτα ἔργα.
+
+    ἐφλέγετο: ze bloosde
+    Rest van de zin staat in de kantlijn.
+
+"Zelfs een rund dat gestoken is door een horzel zou zich niet zo ellendig voelen."
